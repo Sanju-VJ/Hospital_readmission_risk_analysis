@@ -36,7 +36,7 @@ SELECT
 FROM diabetic_data_raw;
 
 
--- STEP 2
+-- STEP 2.
 
 SELECT
 	patient_nbr, 
